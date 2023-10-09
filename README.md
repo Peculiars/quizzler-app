@@ -34,3 +34,6 @@ I welcome contributions and constructive criticism to improve the Quizzler App. 
 4. Commit your changes with clear and concise commit messages.
 5. Push your changes to your forked repository.
 6. Create a pull request to the original repository with a description of your changes.
+
+# Contact 
+If you have any questions or suggestions, feel free to reach out to me at olaitandamilare230@gmail.com
