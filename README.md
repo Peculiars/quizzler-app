@@ -13,7 +13,7 @@ The Quiz App is a mobile application built with Flutter that allows users to par
 Follow these steps to get the Quiz App up and running on your local development environment:
 1. Prerequisites: Ensure you have Flutter installed. If not, follow the official Flutter installation guide.
 2. Clone the repository: 
-    '''flutter
-        git clone https://github.com/peculiars/quizzler_app.git
+    '''bash
+        $ git clone https://github.com/peculiars/quizzler_app.git'''
 3. Navigate to the project directory
     'cd quizzler_app'
