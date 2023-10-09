@@ -8,3 +8,11 @@ The Quiz App is a mobile application built with Flutter that allows users to par
 * Real-time feedback: Immediate feedback is given after each question to inform users whether their answer was correct or not.
 * Score tracking: Users can keep track of their score as they answer questions.
 * Quiz completion: The app notifies users when they have completed the quiz.
+
+# Getting Started 
+Follow these steps to get the Quiz App up and running on your local development environment:
+1. Prerequisites: Ensure you have Flutter installed. If not, follow the official Flutter installation guide.
+2. Clone the repository: 
+    'git clone https://github.com/peculiars/quizzler_app.git'
+3. Navigate to the project directory
+    'cd quizzler_app'
