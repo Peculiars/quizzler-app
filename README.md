@@ -16,4 +16,5 @@ Follow these steps to get the Quiz App up and running on your local development 
 
         $ git clone https://github.com/peculiars/quizzler_app.git
 3. Navigate to the project directory
-    'cd quizzler_app'
+
+        $ cd quizzler_app
