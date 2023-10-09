@@ -18,3 +18,19 @@ Follow these steps to get the Quiz App up and running on your local development 
 3. Navigate to the project directory
 
         $ cd quizzler_app
+4. Install dependencies:
+
+        flutter pub get
+5. Run the app: 
+
+        flutter run
+# Contributions
+I welcome contributions and constructive criticism to improve the Quizzler App. If you'd like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: 
+
+        $ git checkout -b feature/ new-feature or git checkout -b bug/bug-fix.
+3. Make your changes and test them thoroughly.
+4. Commit your changes with clear and concise commit messages.
+5. Push your changes to your forked repository.
+6. Create a pull request to the original repository with a description of your changes.
