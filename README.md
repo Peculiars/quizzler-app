@@ -14,10 +14,10 @@ Follow these steps to get the Quiz App up and running on your local development 
 1. Prerequisites: Ensure you have Flutter installed. If not, follow the official Flutter installation guide.
 2. Clone the repository: 
 
-        $ git clone https://github.com/peculiars/quizzler_app.git
+        $ git clone https://github.com/Peculiars/quizzler-app.git
 3. Navigate to the project directory
 
-        $ cd quizzler_app
+        $ cd quizzler-app
 4. Install dependencies:
 
         flutter pub get
